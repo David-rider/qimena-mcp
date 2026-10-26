@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "name": "io.github.David-rider/qimena-mcp",
+  "title": "Qimena Qi Men Dun Jia & BaZi",
+  "description": "Qi Men Dun Jia charts, BaZi Four Pillars, best-time ranking and solar terms. Free, no key.",
+  "version": "1.0.0",
+  "websiteUrl": "https://qimena.com/en/wiki/qimena-mcp/",
+  "repository": {
+    "url": "https://github.com/David-rider/qimena-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://qimena.com/mcp"
+    }
+  ]
+}
