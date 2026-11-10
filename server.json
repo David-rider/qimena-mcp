@@ -9,6 +9,13 @@
     "url": "https://github.com/David-rider/qimena-mcp",
     "source": "github"
   },
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/David-rider/qimena-mcp/main/logo.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",
