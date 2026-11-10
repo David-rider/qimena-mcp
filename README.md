@@ -1,3 +1,5 @@
+[![mcptry](https://mcptry.com/badge/io.github.David-rider/qimena-mcp)](https://mcptry.com/servers/io.github.David-rider/qimena-mcp)
+
 # Qimena MCP Server · 天衍奇门 MCP 服务
 
 Free, hosted [Model Context Protocol](https://modelcontextprotocol.io) server for **Qi Men Dun Jia (奇门遁甲)** and **BaZi Four Pillars (八字)** calculations, from [Qimena](https://qimena.com).
