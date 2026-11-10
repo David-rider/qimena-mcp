@@ -1,4 +1,5 @@
 [![mcptry](https://mcptry.com/badge/io.github.David-rider/qimena-mcp)](https://mcptry.com/servers/io.github.David-rider/qimena-mcp)
+[[!Qimena Qi Men Dun Jia & BaZi MCP server](https://mcprush.com/badge/qimena-qi-men-dun-jia-bazi-mcp/card.svg)](https://mcprush.com/to/qimena-qi-men-dun-jia-bazi-mcp?ref=badge)
 
 # Qimena MCP Server · 天衍奇门 MCP 服务
 
